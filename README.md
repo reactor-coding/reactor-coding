@@ -41,8 +41,8 @@
 			</thead>
 			<tbody>
         <tr><td>2023/03</td><td><b>Became a BlogBooks Community owner!</b></td></tr>
-				<tr><td>2023/02</td><td><b>Developing for exploit.js 3.0<\b></td></tr>
-				<tr><td>2022/12</td><td><b>Project: Participated in exploit.js of BlogBooks Developers<\b><br>> Developing for exploit.js 2.0</td></tr>
+				<tr><td>2023/02</td><td><b>Developing of exploit.js 3.0<\b></td></tr>
+				<tr><td>2022/12</td><td><b>Participated in Project: exploit.js of BlogBooks Developers<\b><br>> Developing of exploit.js 2.0</td></tr>
 				<tr><td>2022/09</td><td><b>Participated in BlogBooks Developers<\b><br>(Apart from Developers, I helped "半透明のLocaler#5455" by participating privately.)</td></tr>
 			</tbody>
 		</table>
