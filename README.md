@@ -7,7 +7,7 @@
 	<summary>日本語</summary>
 	<ul><p>
 		<li>プロフィール</li><br>
-		<p>react#1507。<br>BlogBooks Community 所有者の15歳。JavaScript(派生のnode.jsも)できる。</p><br>
+		<p>react#1507。<br>BlogBooks Community 所有者の15歳。JavaScript(派生のnode.jsも)できる。</p>
 		<li>活動内容</li><br>
 		<table>
 			<thead>
@@ -31,7 +31,7 @@
 	<summary>English</summary>
 	<ul><p>
 		<li>Profile</li><br>
-		<p>react#1507.<br>I am 15 years old. And... BlogBooks Community owner! JavaScript (and derived node.js) can be wrote.</p><br>
+		<p>react#1507.<br>I am 15 years old. And... BlogBooks Community owner! JavaScript (and derived node.js) can be wrote.</p>
 		<li>My Activities</li><br>
 		<table>
 			<thead>
