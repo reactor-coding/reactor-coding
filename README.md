@@ -50,3 +50,10 @@
 </details>
 
 ---
+
+<sub>
+My Site: <a href="https://blogbooks.net">BlogBooks Library</a><br>
+Twitter: <a href="https://twitter.com/reactor_coding">@reactor_coding</a><br>
+Discord: react#1507<br>
+Discord Server: <a href="blogbooks.net/shortlinks/discord/bbs-community">BlogBooks Community</a><br>
+</sub>
