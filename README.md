@@ -2,12 +2,16 @@
 
 ### About me / 私について
 
-<!-- CSSくらい使わせてよ -->
+<!-- CSSくらい使わせてよ... -->
+
 <details open>
 	<summary>日本語</summary>
 	<ul><p>
 		<li>プロフィール</li><br>
 		<p>react#1507。<br>BlogBooks Community 所有者の15歳。JavaScript(派生のnode.jsも)できる。</p>
+    <li>進行中Project</li><br>
+     Scratch Alt Account Manager
+    <br><br>
 		<li>活動内容</li><br>
 		<table>
 			<thead>
