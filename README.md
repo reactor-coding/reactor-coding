@@ -57,7 +57,9 @@
 
 <sub>
 My Site: <a href="https://blogbooks.net">BlogBooks Library</a><br>
-Twitter: <a href="https://twitter.com/reactor_coding">@reactor_coding</a><br>
-Discord: react#1507<br>
+misskey.io: <a href="https://misskey.io/@reactor_coding">Reactor / BlogBooks (react#1507)</a><br>
+Reddit: <a href="https://www.reddit.com/user/reactor_coding">Reactor / BlogBooks</a><br>
+<del>Twitter: <a href="https://twitter.com/reactor_coding">@reactor_coding</a></del><br>
+Discord ID: react#1507<br>
 Discord Server: <a href="https://blogbooks.net/shortlinks/discord/bbs-community">BlogBooks Community</a><br>
 </sub>
