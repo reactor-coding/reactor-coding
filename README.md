@@ -1,6 +1,6 @@
 ## I'm react#1507
 
-### About me / 私についてpp
+### About me / 私について
 
 <!-- CSSくらい使わせてよ... -->
 
