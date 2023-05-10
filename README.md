@@ -1,6 +1,6 @@
 ## I'm react#1507
 
-### About me / 私について
+### About me / 私についてpp
 
 <!-- CSSくらい使わせてよ... -->
 
@@ -10,8 +10,8 @@
 		<li>プロフィール</li><br>
 		<p>react#1507。<br>BlogBooks Community 所有者の15歳。JavaScript(派生のnode.jsも)できる。</p>
     <li>進行中Project</li><br>
-     Scratch Alt Account Manager<br>
-     Exploit.js v4.0
+    	Exploit.js v4.0 - bookmarkletでブロック解除<br>
+			Surfboard.js - ブロックされずにネットサーフィン
     <br><br>
 		<li>活動内容</li><br>
 		<table>
