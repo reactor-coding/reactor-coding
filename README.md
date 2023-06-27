@@ -7,12 +7,11 @@
 <details open>
 	<summary>日本語</summary>
 	<ul><p>
-		<li>プロフィール</li><br>
-		<p>react#1507。<br>BlogBooks Community 所有者の15歳。JavaScript(派生のnode.jsも)できる。</p>
-    <li>進行中Project</li><br>
+		<p>reactor_coding<br>BlogBooks Community 所有者の16歳。JavaScript(派生のnode.jsも)できる。</p>
+    <!-- <li>進行中Project</li><br>
     	Exploit.js v4.0 - bookmarkletでブロック解除<br>
 			Surfboard.js - ブロックされずにネットサーフィン
-    <br><br>
+    <br><br> -->
 		<li>活動内容</li><br>
 		<table>
 			<thead>
@@ -21,6 +20,7 @@
 				</tr>
 			</thead>
 			<tbody>
+				<tr><td>2023/06/27</td><td><b>Lupus Project(簡易学生向けSNS) へ参加</b></td></tr>
         <tr><td>2023/03</td><td><b>BlogBooks Communityの所有者になった</b></td></tr>
 				<tr><td>2023/02</td><td><b>exploit.js 3.0 の開発<\b><br>> bookmarkletでのDOM構築の手伝いをする</td></tr>
 				<tr><td>2022/12</td><td><b>BlogBooks Developersの Project: exploit.js に参加<\b><br>> exploit.js 2.0 の開発</td></tr>
@@ -35,8 +35,7 @@
 <details>
 	<summary>English</summary>
 	<ul><p>
-		<li>Profile</li><br>
-		<p>react#1507.<br>I am 15 years old. And... BlogBooks Community owner! JavaScript (and derived node.js) can be wrote.</p>
+		<p>reactor_coding<br>I am 16 years old. And... BlogBooks Community owner! JavaScript (and derived node.js) can be wrote.</p>
 		<li>My Activities</li><br>
 		<table>
 			<thead>
@@ -61,6 +60,6 @@ My Site: <a href="https://blogbooks.net">BlogBooks Library</a><br>
 misskey.io: <a href="https://misskey.io/@reactor_coding">Reactor / BlogBooks (react#1507)</a><br>
 Reddit: <a href="https://www.reddit.com/user/reactor_coding">Reactor / BlogBooks</a><br>
 <del>Twitter: <a href="https://twitter.com/reactor_coding">@reactor_coding</a></del><br>
-Discord ID: react#1507<br>
+Discord ID: reactor_coding<br>
 Discord Server: <a href="https://blogbooks.net/shortlinks/discord/bbs-community">BlogBooks Community</a><br>
 </sub>
