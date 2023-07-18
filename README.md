@@ -7,7 +7,7 @@
 <details open>
 	<summary>日本語</summary>
 	<ul><p>
-		<p>reactor_coding<br>BlogBooks Community 所有者の16歳。JavaScript(派生のnode.jsも)できる。</p>
+		<p>reactor_coding<br>BlogBooks Community 所有者の15歳。JavaScript(派生のnode.jsも)できる。</p>
     <!-- <li>進行中Project</li><br>
     	Exploit.js v4.0 - bookmarkletでブロック解除<br>
 			Surfboard.js - ブロックされずにネットサーフィン
@@ -20,7 +20,7 @@
 				</tr>
 			</thead>
 			<tbody>
-				<tr><td>2023/06/27</td><td><b>Lupus Project(簡易学生向けSNS) へ参加</b></td></tr>
+				<tr><td>2023/06/27</td><td><b>Lupusの開発に協力</b></td></tr>
         <tr><td>2023/03</td><td><b>BlogBooks Communityの所有者になった</b></td></tr>
 				<tr><td>2023/02</td><td><b>exploit.js 3.0 の開発<\b><br>> bookmarkletでのDOM構築の手伝いをする</td></tr>
 				<tr><td>2022/12</td><td><b>BlogBooks Developersの Project: exploit.js に参加<\b><br>> exploit.js 2.0 の開発</td></tr>
