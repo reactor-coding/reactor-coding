@@ -1,16 +1,9 @@
-## I'm react#1507
+## I'm reactor-coding
 
-### About me / 私について
-
-- English / 英語:
+### About me
 
 I am Japanese and 16 years old. I can use `node.js (expressjs, ejs, discord.js, mysql2)` and `HTML` and `CSS`.   
 Also, I own a block-avoiding blog community called `BlogBooks Library`.
-
-- Japanese / 日本語:
-
-16歳の日本人です。`HTML` と `CSS` と `node.js (expressjs, ejs, discord.js, mysql2)` ができます。
-あと、BlogBooks Libraryというブロック回避系ブログコミュニティーの所有者です。
 
 ---
 
