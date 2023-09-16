@@ -2,8 +2,8 @@
 
 ### About me
 
-I am Japanese and 16 years old. I can use `node.js (expressjs, ejs, discord.js, mysql2)` and `HTML` and `CSS`.   
-Also, I own a block-avoiding blog community called `BlogBooks Library`.
+I am Japanese and 16 years old. I can use `node.js (nextjs & reactjs, expressjs, ejs, discord.js, mysql2)` and `HTML` and `CSS`.   
+Also, I own a block-avoiding blog community called **`BlogBooks Library`**.
 
 ---
 
