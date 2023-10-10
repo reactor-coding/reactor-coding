@@ -18,7 +18,7 @@ Discord Server: <a href="https://blogbooks.net/shortlinks/discord/bbs-community"
 
 ---
 
-<!--
-tag:   
+
+<sub>tag:   
 blogbooks,blogbooks library second server,blogbooks パスワード,blogbooks proxy,blogbooks library,blogbooks community,ブロック回避 blogbooks library
--->
+</sub>
